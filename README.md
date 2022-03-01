@@ -1,2 +1,2 @@
 # ECE1512_2022W_ProjectRepo_YuhangSong_ChinmingWong
-ProjectA
+Project A: Visual Interpretation of Convolutional Neural Networks
